@@ -1,7 +1,7 @@
 ## 👋 Eai! Eu sou o Alan Mazzolenis
 
 - 📚 Estou aprendendo Programação orientada a objetos em Java
-- 💞️ No momento procuro desenvolver minhas habilidades em back-end
+- 💞️ No momento procuro desenvolver minhas habilidades como back-end
 
 <div align="center">
   <a href="https://github.com/alanmazz">
